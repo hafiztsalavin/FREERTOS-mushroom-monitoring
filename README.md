@@ -9,7 +9,7 @@ Mushroom monitoring using real time operating system FreeRTOS
 
 ## Task
 1. LCD Task (`lcd_task`)
-2. DHT11 Task (`dht22_task`)
+2. DHT22 Task (`dht22_task`)
 4. LDR task (`ldr_task`)
 
 ## Simulation
